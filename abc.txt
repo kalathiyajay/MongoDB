@@ -1,0 +1,41 @@
+//read Document
+
+db.client.find()
+
+// shoe Specific Data
+
+db.client.findOne({"name":"Ivan Bayross"})
+
+// Count Document
+
+db.client.find().count()
+
+//Skip Document
+
+db.client.find().skip(2)
+
+//sort()
+
+db.client.find().sort({"Name":1})
+
+//limit()
+
+db.client.find().limit(2)
+
+//Specific Data
+
+db.client.find({},{"Name":1,"State":1})
+
+// COMPARIOSON OPERATER
+
+// db.client.find({"id":{$eq:4}}) //Equal To
+
+//db.client.find({"id":{$ne:4}}) //Not equal
+
+//db.client.find({"id":{$gt:4}})//Greater Then
+
+//db.client.find({"id":{$gte:4}})//Greater Then Equal 
+
+
+
+

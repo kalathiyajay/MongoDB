@@ -1,0 +1,50 @@
+db.Student.insertMany([
+    {
+        "Id":1,
+        "First_Name":"Jay",
+        "Last_Name":"Kalathiya",
+        "Email":"jaykalathiya@gmail.com",
+        "Teacher":"girish_sir"
+    },
+    {
+        "Id":2,
+        "First_Name":"Rutvik",
+        "Last_Name":"Bodar",
+        "Email":"Rutvikboder@gmail.com",
+        "Teacher":"girish_sir"
+    },
+    {
+        "Id":3,
+        "First_Name":"Jemin",
+        "Last_Name":"kikani",
+        "Email":"jeminkikani@gmail.com",
+        "Teacher":"vivek_sir"
+    },
+    {
+        "Id":4,
+        "First_Name":"Sujal",
+        "Last_Name":"Togiya",
+        "Email":"sujaltogiya@gmail.com",
+        "Teacher":"Mohit_sir"
+    },
+    {
+        "Id":5,
+        "First_Name":"Harshil",
+        "Last_Name":"Gajipara",
+        "Email":"harshilgajipara@gmail.com",
+        "Teacher":"Nilesh_sir"
+    },
+])
+
+/*
+db.Student.aggregate([
+    {
+        $lookup:{
+            from:"Teacher",
+            localfield:"Teacher",
+            foreignfield:"First_Name",
+            as:"Data"
+        }
+    }
+])
+*/

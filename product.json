@@ -1,0 +1,82 @@
+[{
+  "ProductNo": "P00001",
+  "Descripition": "T-Shirts",
+  "profitPercent": 5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "200",
+  "ReorderLvl": "50",
+  "Sellprice": "350",
+  "cost price": "250"
+},{
+  "ProductNo": "P0345",
+  "Descripition": "Shirts",
+  "profitPercent": 6,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "150",
+  "ReorderLvl": "50",
+  "Sellprice": "500",
+  "cost price": "350"
+},{
+  "ProductNo": "P06734",
+  "Descripition": "Cotton Jense",
+  "profitPercent": 5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "100",
+  "ReorderLvl": "20",
+  "Sellprice": "600",
+  "cost price": "450"
+},{
+  "ProductNo": "P07865",
+  "Descripition": "Jense",
+  "profitPercent": 5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "100",
+  "ReorderLvl": "20",
+  "Sellprice": "750",
+  "cost price": "500"
+},{
+  "ProductNo": "P07868",
+  "Descripition": "Trouders",
+  "profitPercent": 2,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "150",
+  "ReorderLvl": "50",
+  "Sellprice": "850",
+  "cost price": "550"
+},{
+  "ProductNo": "P07885",
+  "Descripition": "Pull Overs",
+  "profitPercent": 2.5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "80",
+  "ReorderLvl": "30",
+  "Sellprice": "700",
+  "cost price": "450"
+},{
+  "ProductNo": "P07965",
+  "Descripition": "Denim Shirts",
+  "profitPercent": 4,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "100",
+  "ReorderLvl": "40",
+  "Sellprice": "350",
+  "cost price": "250"
+},{
+  "ProductNo": "P07975",
+  "Descripition": "Lyer Tops",
+  "profitPercent": 5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "70",
+  "ReorderLvl": "30",
+  "Sellprice": "300",
+  "cost price": "175"
+},{
+  "ProductNo": "P08865",
+  "Descripition": "Skirts",
+  "profitPercent": 5,
+  "Unit Measure": "Piece",
+  "QtyOn Hand": "75",
+  "ReorderLvl": "30",
+  "Sellprice": "450",
+  "cost price": "300"
+}]

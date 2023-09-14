@@ -1,0 +1,53 @@
+[{},{
+  "SalesmanNO": "S0001",
+  "Name": "Aman",
+  "Address1": "A/14",
+  "Address2": "Worli",
+  "City": "Mumbai",
+  "PimCode": "400002",
+  "State": "Maharashtra"
+},{
+  "SalesmanNO": "S0002",
+  "Name": "omkar",
+  "Address1": "65",
+  "Address2": "Nariman",
+  "City": "Mumbai",
+  "PimCode": "400001",
+  "State": "Maharashtra"
+},{
+  "SalesmanNO": "S0003",
+  "Name": "Raj",
+  "Address1": "P-7",
+  "Address2": "Bandra",
+  "City": "Mumbai",
+  "PimCode": "400032",
+  "State": "Maharashtra"
+},{
+  "SalesmanNO": "S0004",
+  "Name": "Ashish",
+  "Address1": "A/5",
+  "Address2": "Juhu",
+  "City": "Mumbai",
+  "PimCode": "400044",
+  "State": "Maharashtra"
+},{
+  "salamt": "3000",
+  "tgtoget": "100",
+  "Ytdsales": "50",
+  "Remarks": "Good"
+},{
+  "salamt": "3000",
+  "tgtoget": "200",
+  "Ytdsales": "100",
+  "Remarks": "Good"
+},{
+  "salamt": "3000",
+  "tgtoget": "200",
+  "Ytdsales": "100",
+  "Remarks": "Good"
+},{
+  "salamt": "3500",
+  "tgtoget": "200",
+  "Ytdsales": "150",
+  "Remarks": "Good"
+}]
